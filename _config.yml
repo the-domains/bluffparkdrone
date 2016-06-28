@@ -1,0 +1,28 @@
+name: BluffParkDrone
+favicon: null
+layout_spectrum: 0.4880031852517277
+typography_spectrum: 0.5086368520278484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.849896969506517
+  lightness: 0.5490431941580027
+  saturation: 0.45652949274517596
+  rhythmicContrast: 0.3456632050219923
+purpose: []
